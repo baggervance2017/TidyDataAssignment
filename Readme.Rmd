@@ -1,0 +1,15 @@
+---
+title: "Readme.Rmd"
+author: "Vish Oza"
+date: "1/31/2018"
+output: html_document
+---
+
+## Readme
+
+The run_analysis.R provides the code that was used to build the intermediate and final tidy dataset required by the assignment.  
+
+The codebook.Rmd is the codebook that explains the small scripts that build towards the final today dataset.  
+
+The step5_tidydata.txt is the output of the tidy dataset requested in the assignment.   
+
